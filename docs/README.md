@@ -4,44 +4,44 @@ Javascript, Node, Express, React, Redux, Vue, Typescript, AngularJS, Angular7, F
 ---
 
 # [Work Experiences](EXPERIENCES.md)
-Screencastify -	Software Developer	
+[Screencastify -	Software Developer](EXPERIENCES.md#screencastify)	
 *2017	   –  	Present*
 
-Epic Corporation -	Interface Engineer	
+[Epic Corporation -	Interface Engineer](EXPERIENCES.md#epic-corporation)	
 *2016	–  	2017*
 
-Clean Air Pillow -	COO  & Founder 	
+[Clean Air Pillow -	COO  & Founder](EXPERIENCES.md#clean-air-pillow) 	
 *2013	– 	2015*
 
 ---
 
 # [Projects](PROJECTS.md)
-Hubcap (professional)	
+[Hubcap (professional)](PROJECTS.md#hubcap-professional)	
 *screen capture plugin*
 
 
-Screencastify Editor (professional)	
+[Screencastify Editor (professional)](PROJECTS.md#screencastify-editor-professional)	
 *video editor*
 
 
-Screencastify (professional)	
+[Screencastify (professional)](PROJECTS.md#screencastify-professional)	
 *screen recorder*
 
 
-Daily Memories (hobby)	
+[Daily Memories (hobby)](PROJECTS.md#daily-memories-hobby)	
 *digital journal*
 
 
-Split (hobby)	
+[Split (hobby)](PROJECTS.md#split-hobby)	
 *bill splitter*
 
-CharDee MacDennis (hobby)	
+[CharDee MacDennis (hobby)](PROJECTS.md#chardee-macdennis-hobby)	
 *android game*
 
 ---
 
-# Education
-Johns Hopkins University
+# [Education](EDUCATION.md)
+[Johns Hopkins University](EDUCATION.md#johns-hopkins-university)   
 *Chemical and Biomolecular Engineering BS*
 
 ---
