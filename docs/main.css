@@ -1,5 +1,4 @@
 .cover-main img {
     border-radius: 50%;
-    height: 350px;
-    width: 350px;
+    max-height: 350px;
 }

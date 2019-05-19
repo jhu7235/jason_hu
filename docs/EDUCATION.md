@@ -3,7 +3,7 @@
 *Chemical and Biomolecular Engineering BS*
 
 ### Honors and Awards
-Ralph O’Connor Entrepreneurship Grant	Awarded ($7,500)	May 2015
+Ralph O’Connor Entrepreneurship Grant	Awarded ($7,500)	May 2015    
 Johns Hopkins Business Plan competition	First Place ($6,000)	 May 2015
 
 ### Student Organizations
